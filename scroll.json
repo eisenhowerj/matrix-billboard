@@ -1,0 +1,8 @@
+{
+    "scroller": {
+        "stext" : "In a\n Meeting",
+        "fg_color": "0x800020",
+        "bg": "0x444444",
+        "rate": ".05"
+    }
+}
